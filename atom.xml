@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sweetappleyf.github.io</id>
     <title>YF</title>
-    <updated>2022-07-31T11:55:29.197Z</updated>
+    <updated>2022-07-31T11:58:01.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sweetappleyf.github.io"/>
     <link rel="self" href="https://sweetappleyf.github.io/atom.xml"/>
@@ -10,4 +10,14 @@
     <logo>https://sweetappleyf.github.io/images/avatar.png</logo>
     <icon>https://sweetappleyf.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, YF</rights>
+    <entry>
+        <title type="html"><![CDATA[Gridea同步失败]]></title>
+        <id>https://sweetappleyf.github.io/post/gridea-tong-bu-shi-bai/</id>
+        <link href="https://sweetappleyf.github.io/post/gridea-tong-bu-shi-bai/">
+        </link>
+        <updated>2022-07-31T11:56:08.000Z</updated>
+        <content type="html"><![CDATA[<p>1.开代理<br>
+2.</p>
+]]></content>
+    </entry>
 </feed>
